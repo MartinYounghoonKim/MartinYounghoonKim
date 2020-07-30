@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Martin Younghoon Kim. I'm working as a sotfware engineer in South Korea. I love coding with Typescript, React on Front-end side and Springboot, JPA on the server side. 
+
 <!--
 **MartinYounghoonKim/MartinYounghoonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
