@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-My name is Martin Younghoon Kim. I'm working as a sotfware engineer in South Korea. I love coding with Typescript, React on Front-end side and Springboot, JPA on the server side. 
+My name is Martin Younghoon Kim. 
+
+I'm currently working on a sotfware engineer at Coupang. 
+
+I love typescript, react on client side and springboot, JPA on the server side. 
+
+Please contact me to work on a project together or just a chat.
+
+For more details, here is my <a href="https://www.linkedin.com/in/martin-younghoon-kim/" target="_blank">LinkedIn</a> profile.
 
 <!--
 **MartinYounghoonKim/MartinYounghoonKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
